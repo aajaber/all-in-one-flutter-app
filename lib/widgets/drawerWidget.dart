@@ -17,7 +17,7 @@ class MainDrawer extends StatelessWidget {
               color: Colors.red[400],
             ),
             child: Text(
-              'Bunch of useless apps',
+              'Apps List',
               style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25.0),
             ),
           ),
